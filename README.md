@@ -34,7 +34,7 @@ The main goal of this project is to build a vehicle system capable of **automati
 
 **Dang Nguyen Le Nhat - 23520231**
 
-**Dat Huynh Minh - 23520266**
+**Dat Huynh Minh - 23520249**
 
 ## Demo
 
