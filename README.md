@@ -1,6 +1,6 @@
 # NT131 - Wireless Embedded Network Systems (LAB & Project)
 
-This repository contains materials related to the labs and project for the NT131 - Wireless Embedded Network System course.
+This repository contains materials related to the labs and project for the NT131 - Wireless Embedded Network System course from the University of Information Technology (UIT).
 
 ## LAB
 
