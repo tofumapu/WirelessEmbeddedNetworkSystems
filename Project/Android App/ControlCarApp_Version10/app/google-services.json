@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "573841612453",
+    "firebase_url": "https://esp32-car-6552a-default-rtdb.firebaseio.com",
+    "project_id": "esp32-car-6552a",
+    "storage_bucket": "esp32-car-6552a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573841612453:android:3eff866f8a83aff350374c",
+        "android_client_info": {
+          "package_name": "com.example.controlcarapp_version10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2RvzEQfQexsIyIp-BF3nHIZHY5lkVG7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

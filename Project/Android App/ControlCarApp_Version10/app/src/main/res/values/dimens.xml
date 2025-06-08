@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_standard">16dp</dimen>
+    <dimen name="margin_standard">16dp</dimen>
+    <dimen name="margin_medium">12dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="text_size_large_title">22sp</dimen>
+    <dimen name="text_size_title">18sp</dimen>
+    <dimen name="text_size_body">16sp</dimen>
+    <dimen name="text_size_caption">14sp</dimen>
+    <dimen name="button_min_height">48dp</dimen>
+    <dimen name="control_button_size">64dp</dimen>
+    <dimen name="control_button_corner_radius">32dp</dimen>
+    <dimen name="chip_min_height">32dp</dimen>
+</resources>
