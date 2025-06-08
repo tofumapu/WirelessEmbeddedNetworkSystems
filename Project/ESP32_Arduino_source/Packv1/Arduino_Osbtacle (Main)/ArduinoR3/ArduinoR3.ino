@@ -1,9 +1,10 @@
 #define ENA  7
 #define ENB  2
 #define IN_1 6
-#define IN_2 5 
+#define IN_2 5
 #define IN_3 4
 #define IN_4 3
+
 
 String command;
 int speedCar = 255;
@@ -96,7 +97,6 @@ void stopRobot() {
     analogWrite(ENB, 0);
 }
 
-
 void loop() {
     if (Serial.available()) {
         String receivedData = Serial.readStringUntil(' ');
@@ -133,6 +133,9 @@ void loop() {
         } else if (receivedData == "0") {
             Serial.println("Executing: stopRobot");
             stopRobot();
+        }
+        else {
+            Serial.println("Unknown command");
         }
     }
 }
